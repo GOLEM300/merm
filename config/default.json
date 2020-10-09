@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret" : "gol",
+    "mongoUrl": "mongodb+srv://GOLEM:semamudak1996@cluster0.4v98e.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
